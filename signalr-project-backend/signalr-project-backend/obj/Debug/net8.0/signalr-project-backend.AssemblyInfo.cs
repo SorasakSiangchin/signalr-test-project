@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("signalr-project-backend")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8e29fd5752f5b1d0a77151aa7029c71a6b473330")]
 [assembly: System.Reflection.AssemblyProductAttribute("signalr-project-backend")]
 [assembly: System.Reflection.AssemblyTitleAttribute("signalr-project-backend")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
